@@ -255,27 +255,6 @@ li {
   margin-bottom: 40px;
 }
 
-.youtube {
-  position:relative;
-  width: 100%;
-  max-width: 560px;
-}
-
-.youtube::before {
-  content: "";
-  display: block;
-  width: 100%;
-  padding-top: 56.25%;
-}
-
-.youtube iframe{
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-}
-
 .movies-body {
   font-size: 8px;
   text-align: center;
