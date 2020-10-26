@@ -255,6 +255,14 @@ li {
   margin-bottom: 40px;
 }
 
+.movies-item　iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
 .movies-body {
   font-size: 8px;
   text-align: center;
