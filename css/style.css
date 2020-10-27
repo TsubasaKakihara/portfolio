@@ -114,7 +114,7 @@ li {
 .header {
   display: flex;
   height: 100vh;
-  background: url(../img/background.svg) center / cover;
+  background: url(../img/background.svg) right center / cover;
 }
 
 .logo {
